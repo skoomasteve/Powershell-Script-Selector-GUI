@@ -1,7 +1,7 @@
 # Powershell-Script-Selector-GUI
 A graphical powershell script selector.
 
--In the PSSSG.ps1 file, specify the file path which contains your powershell scripts. 
+-Create directory C:\PSSSG and place your powershell scripts in it, specify the file path which contains your powershell scripts. 
 
 -Run PSSSG.ps1
 
