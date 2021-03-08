@@ -1,7 +1,7 @@
 # Powershell-Script-Selector-GUI
 
 
-## A graphical powershell script selector.
+## A simple graphical powershell script selector using out-gridview.
 
 
 ## Instructions:
